@@ -1,106 +1,24 @@
-### Hi there, I'm Amit! Great to see you here! 👋
-body{
-background: #F9D65A;
+## Hi there, I'm Amit! Great to see you here! 👋
+I am Amit Kumar, currently pursuing my B.E degree in Computer Science from K.C.College of Engineering and Management Studies and Research. Find out more about me & feel free to connect with me here:
+<br>
 
-min-height: 100%;
+<a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target="_blank">
+<img alt="MAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-
-text-align:center;
-}
-
-img {
-
-
+<a href="https://www.linkedin.com/in/amit-kumar-jagmohan-prasad-74a7b21b2/" target="_blank">
+<img alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
  
-  padding: 20px;
+ <a href="https://twitter.com/TheAmitKumar01" target="_blank">
+<img alt="TWITTER" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+ </a>
 
-  position: absolute;
-  top: 50%;
-  left: 50%;
+<a href="https://t.me/FeeDBack03" target="_blank">
+<img alt="TELEGRAM" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+ </a>
+     
+     
+<img align ="left" src ="https://github-readme-stats.vercel.app/api?username=FEEDBACK03&theme=tokyonight&show_icons=true">
 
-  margin: -70px 0 0 -70px;
-
--webkit-transform: rotate(-40deg);
--moz-transform: rotate(-40deg);
--o-transform: rotate(-40deg);
--ms-transform: rotate(-40deg);
-transform: rotate(-40deg);
--webkit-animation: wink 0.5s alternate infinite; /* Safari 4+ */
-  -moz-animation:    wink 0.5s alternate infinite; /* Fx 5+ */
-  -o-animation:      wink 0.5s alternate infinite; /* Opera 12+ */
-  animation:         wink 0.5s alternate infinite; /* IE 10+, Fx 29+ */
--webkit-transform-origin: 50% 100%;
--moz-transform-origin: 50% 100%;
--o-transform-origin: 50% 100%;
--ms-transform-origin: 50% 100%;
-transform-origin: 50% 100%;
--webkit-animation-timing-function: ease; /* Chrome, Safari, Opera */
-animation-timing-function: ease;
-
-
-
-      
-
-}
-
-
-
-
-/* Chrome, Safari, Opera */ 
-@-webkit-keyframes wink {
-    0% {-webkit-transform: rotate(-40deg);
--moz-transform: rotate(-40deg);
--o-transform: rotate(-40deg);
--ms-transform: rotate(-40deg);
-
-}
-
-
-
-100% {-webkit-transform: rotate(40deg);
--moz-transform: rotate(40deg);
--o-transform: rotate(40deg);
--ms-transform: rotate(40deg);
-transform: rotate(40deg);}
-
-
-
-
-} 
-
-/* Standard syntax */ 
-@keyframes wink {
-    
-
-    0% {-webkit-transform: rotate(-40deg);
--moz-transform: rotate(-40deg);
--o-transform: rotate(-40deg);
--ms-transform: rotate(-40deg);
-transform: rotate(-40deg);
-}
-
-
-100% {-webkit-transform: rotate(40deg);
--moz-transform: rotate(40deg);
--o-transform: rotate(40deg);
--ms-transform: rotate(40deg);
-transform: rotate(40deg);}
-
-
-
-}
-
-<!--
-**FEEDBACK03/FEEDBACK03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FEEDBACK03&layout=compact">

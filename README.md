@@ -17,8 +17,13 @@ I am Amit Kumar, currently pursuing my B.E degree in Computer Science from K.C.C
 <a href="https://t.me/FeeDBack03" target="_blank">
 <img alt="TELEGRAM" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
  </a>
+ 
+<a href="discordapp.com/users/FeeDBack#0991" target="_blank">
+<img alt="TELEGRAM" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
      
      
-<img align ="left" src ="https://github-readme-stats.vercel.app/api?username=FEEDBACK03&theme=tokyonight&show_icons=true">
+     
+<img align ="left"  width="47%" src ="https://github-readme-stats.vercel.app/api?username=FEEDBACK03&theme=tokyonight&show_icons=true">
 
-<img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FEEDBACK03&layout=compact">
+<img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FEEDBACK03&layout=compact">

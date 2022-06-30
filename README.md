@@ -1,4 +1,4 @@
-# Hi there, I'm Amit! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
+# Hi there, I'm Amit! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="10px">
 I am Amit Kumar, currently pursuing my B.E degree in Computer Science from K.C.College of Engineering and Management Studies and Research. Find out more about me & feel free to connect with me here:
 <br>
 

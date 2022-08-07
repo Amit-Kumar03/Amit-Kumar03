@@ -98,11 +98,11 @@ I am Amit Kumar, currently pursuing my B.E degree in Computer Science from K.C.C
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=FEEDBACK03&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FEEDBACK03&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Amit-Kumar03&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amit-Kumar03&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FEEDBACK03&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Kumar03&theme=tokyonight" />
 </p>

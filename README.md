@@ -31,7 +31,7 @@ I am Amit Kumar, currently pursuing my B.E degree in Computer Science from K.C.C
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/channel_id) -->
 <br>
 
-![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=FEEDBACK03&theme=xcode)
+![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Amit-Kumar03&theme=xcode)
 
 ## <img src="https://img.freepik.com/free-vector/data-access-concept-login-form-screen-laptop-personal-account-authorization-process-inter-password-modern-illustration-isometric-style_172533-175.jpg?size=626&amp;ext=jpg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Premium Vector | Data access concept, login form on screen laptop, personal  account, authorization process, inter password. modern illustration in  isometric style" data-noaft="1" style="width: 30x; height: 487.709px; margin: 0px;" height="30px" > Coding Profiles
 
